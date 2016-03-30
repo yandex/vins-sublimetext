@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+{
+  "handler": "webhook",
+  "url": "${1:url}"
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vins_handler_webhook</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

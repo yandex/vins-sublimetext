@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+{
+  "slot": "${1:имя}",
+  "type": "${2:тип}",
+  "optional": ${3:false},
+  "events": []
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vins_slot</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
