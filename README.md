@@ -1,4 +1,4 @@
-# vins-sublimetext
+# Vins plugin for Sublime Text
 
 ## Установка
 
